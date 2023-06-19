@@ -1,0 +1,4 @@
+* Update and include Reaper Sessions
+* Update .bat paths to "insert path here" message
+* Update with links to download VST, Jacktrip and Jack
+* Edit MATLAB app code - make help button messages editable via worksheet
