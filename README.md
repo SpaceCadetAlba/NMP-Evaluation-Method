@@ -19,6 +19,7 @@ An example has been prepared such that modification and repurposing of the workf
 - DAW (Reaper) sessions (.rpp)
 
 Setup and Usage Guidance Notes are included.
+These notes may be found in the "Guides" directory.
 
 The example considers:
 
