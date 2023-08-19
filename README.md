@@ -1,6 +1,8 @@
 # NMP Evaluation Method
 
-This repository is associated with the publication "A DAW-based approach to immersive audio system evaluation in Network Music Performance contexts". This paper was presented at the 2023 AES International Conference on Spatial and Immersive Audio. 
+This repository is associated with the publication "A DAW-based approach to immersive audio system evaluation in Network Music Performance contexts". This paper was presented at the 2023 AES International Conference on Spatial and Immersive Audio.
+
+If you have any queries or suggestions please do not hesitate to contact me at patrick.cairns@york.ac.uk
 
 # Summary
 
